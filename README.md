@@ -1,5 +1,11 @@
 # snd_hda_macbookpro
 
+**This is a fork of the [snd_hda_macbookpro](https://github.com/davidjo/snd_hda_macbookpro) kernel driver from [davidjo](https://github.com/davidjo).**
+**It includes the following patches:**
+* iMac 27" 5K Support from [egorenar](https://github.com/egorenar/snd_hda_macbookpro)
+* Arch Linux Support from [ekultails](https://github.com/ekultails/snd_hda_macbookpro)
+-------------
+
 This is a kernel driver for sound on Macs with Cirrus 8409 HDA chips.
 This is NOT a complete audio setup as yet and is still at a very alpha stage of development.
 
